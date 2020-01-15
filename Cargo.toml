@@ -1,0 +1,12 @@
+[package]
+name = "source_loc"
+version = "0.99.0"
+authors = ["neonphog <neonphog@gmail.com>"]
+edition = "2018"
+description = "utility for capturing source file location at compile time"
+keywords = ["debug", "debugging", "source", "file", "line"]
+categories = ["development-tools::debugging"]
+license = "MIT/Apache-2.0"
+readme = "README.md"
+documentation = "https://docs.rs/source_loc"
+repository = "https://github.com/neonphog/source_loc"
