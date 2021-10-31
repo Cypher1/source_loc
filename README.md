@@ -1,5 +1,5 @@
 ![Crates.io](https://img.shields.io/crates/l/source_loc)
-[![Crates.io](https://img.shields.io/crates/v/source_loc)](https://docs.rs/crate/source_loc/0.99.0)
+[![Crates.io](https://img.shields.io/crates/v/source_loc)](https://docs.rs/crate/source_loc)
 
 # source_loc
 
